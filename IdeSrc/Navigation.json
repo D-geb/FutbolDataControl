@@ -1,0 +1,148 @@
+{
+   "Projects": [
+     {
+       "nZoom": 0.55,
+       "nPositionX": -1112.57592773,
+       "nPositionY": -116.86872864,
+       "nWidth": 3349.09082031,
+       "nHeight": 1094.54542542,
+       "sProject": "WebApp.src",
+       "bShowWebApp": false,
+       "bShowHidden": false,
+       "Elements": [
+         {
+           "Name": "oDashboard",
+           "Position": {
+             "sX": "367.5",
+             "sY": "12.5"
+           },
+           "TabColor": {
+             "sColorDM": "#006EFF",
+             "sColorLM": "#006EFF"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oLogin",
+           "Position": {
+             "sX": "727.5",
+             "sY": "62.5"
+           },
+           "TabColor": {
+             "sColorDM": "#002C68",
+             "sColorLM": "#97C6FF"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oSelectEntrenador",
+           "Position": {
+             "sX": "0",
+             "sY": "290"
+           },
+           "TabColor": {
+             "sColorDM": "#06763A",
+             "sColorLM": "#74DCA0"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oSelectEquipo",
+           "Position": {
+             "sX": "1025",
+             "sY": "300"
+           },
+           "TabColor": {
+             "sColorDM": "#03C560",
+             "sColorLM": "#03C560"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oSelectJugador",
+           "Position": {
+             "sX": "510",
+             "sY": "302.5"
+           },
+           "TabColor": {
+             "sColorDM": "#049D4D",
+             "sColorLM": "#43D080"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oSelectLiga",
+           "Position": {
+             "sX": "435",
+             "sY": "720"
+           },
+           "TabColor": {
+             "sColorDM": "#06763A",
+             "sColorLM": "#74DCA0"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oWebApp",
+           "Position": {
+             "sX": "1087.5",
+             "sY": "0"
+           },
+           "TabColor": {
+             "sColorDM": "#006EFF",
+             "sColorLM": "#006EFF"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oZoomEntrenador",
+           "Position": {
+             "sX": "37.5",
+             "sY": "542.5"
+           },
+           "TabColor": {
+             "sColorDM": "#CE4C01",
+             "sColorLM": "#FF7F42"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oZoomEquipo",
+           "Position": {
+             "sX": "1012.5",
+             "sY": "530"
+           },
+           "TabColor": {
+             "sColorDM": "#672606",
+             "sColorLM": "#FFBFA3"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oZoomJugador",
+           "Position": {
+             "sX": "510",
+             "sY": "542.5"
+           },
+           "TabColor": {
+             "sColorDM": "#FF5E00",
+             "sColorLM": "#FF5E00"
+           },
+           "bHidden": false
+         },
+         {
+           "Name": "oZoomLiga",
+           "Position": {
+             "sX": "435",
+             "sY": "935"
+           },
+           "TabColor": {
+             "sColorDM": "#672606",
+             "sColorLM": "#FFBFA3"
+           },
+           "bHidden": false
+         }
+       ]
+     }
+   ]
+ }
